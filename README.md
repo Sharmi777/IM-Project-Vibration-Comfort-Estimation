@@ -6,3 +6,5 @@ This consists of:-
 3. Project Implementation PPT and word doc which has the simple implementation guidelines which were used for making the working model of the system using simple linear regression.
 4. The source code in Python for the surrogate model made using Linear Regression.
 
+The link for the demo video is
+https://drive.google.com/file/d/1yMJXKV_dRMixhD3aZKTB-LLzkyOlh_Ch/view?usp=sharing
